@@ -2,3 +2,8 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+tr:nth-child(even) {
+  background: lightblue;
+  justify-content: flex-end;
+}
